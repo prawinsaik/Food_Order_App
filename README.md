@@ -1,7 +1,7 @@
 # Food_Order_App
 <br />
 
-#  *******   The application will have a log-in for admin and users.   *******
+#  The application will have a log-in for admin and users.   
 
 <br />
 
